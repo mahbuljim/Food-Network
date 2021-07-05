@@ -35,7 +35,7 @@ section{
         color: white;
         text-decoration: none;
         background: linear-gradient(rgb(43 234 186),#387238);
-        border-radius: 18px;
+        border-radius: 50px;
         font-size: 21px;
         font-weight: 700;
         
@@ -58,4 +58,40 @@ section{
                     /* section 2 */
 
 
-                    
+ .two{
+     background-image: url(Img/Frame\ 57.jpg);
+
+ } 
+
+ .two h1{
+
+    color: rgb(150 149 149);
+    font-size: 52px;
+ } 
+
+ #sec2-2nd{
+
+    margin-top: 78px;
+
+ }
+ 
+ #burgereat{
+    width: 469px;
+    height: 642px;
+    margin-left: 121px;
+ }
+
+ .half-one a{
+    padding: 22px 45px;
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(rgb(43 234 186),#387238);
+    border-radius: 50px;
+    font-size: 21px;
+    font-weight: 700;
+    
+}
+
+.half-one h2{
+    margin-bottom: 102px;
+}
